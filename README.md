@@ -1,2 +1,2 @@
 # VK_Parser
-VK Parser
+Parser for vk communities
